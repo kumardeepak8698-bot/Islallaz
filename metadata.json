@@ -1,0 +1,6 @@
+{
+  "name": "Island",
+  "description": "A powerful sandboxed workspace to clone, isolate, and freeze applications using Android Managed Profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
